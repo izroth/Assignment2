@@ -1,4 +1,4 @@
-const users = require('../models/users');
+const users = require('../models/user');
 const nodemailer = require('nodemailer');   
 
 const ForgotPassword = async (req, res) => {
