@@ -1,0 +1,5 @@
+do npm i after clone the repo 
+Save  the jwt token in cookie fpr authentication
+you can use your own mongoDB url
+you can your own email for nodemailer
+
